@@ -1,0 +1,37 @@
+commit eed35125b33a6e087e51e7cea22fd85d47d5f520
+Author: Anabhayan <aa3452@njit.edu>
+Date:   Tue Sep 30 11:35:38 2025 -0400
+
+    Revert "Added newfile.txt with test content"
+    
+    This reverts commit 65b6052a75fabe2fa4c8dc6f807fc4a5cfeddf46.
+
+commit 65b6052a75fabe2fa4c8dc6f807fc4a5cfeddf46
+Author: Anabhayan <aa3452@njit.edu>
+Date:   Tue Sep 30 11:14:19 2025 -0400
+
+    Added newfile.txt with test content
+
+commit 6fa9fb770bbeb0193814b480b11ba4402b553ab1
+Author: Anabhayan <aa3452@njit.edu>
+Date:   Tue Sep 30 11:13:12 2025 -0400
+
+    Added custom comment to hostname
+
+commit 55f0cf3bccc7746df940ca2c23733eb6b9f16e88
+Author: Anabhayan <aa3452@njit.edu>
+Date:   Thu Sep 25 12:39:27 2025 -0400
+
+    add test message to os-release
+
+commit a1ee82b7d57719036efe7a636c3c86980ba901a7
+Author: Anabhayan <aa3452@njit.edu>
+Date:   Thu Sep 25 12:30:55 2025 -0400
+
+    Add .gitignore to exclude debug directory
+
+commit 298ea7c7e1166f6d247a2fd48b9b35690bb75312
+Author: Anabhayan <aa3452@njit.edu>
+Date:   Wed Sep 24 12:35:13 2025 -0400
+
+    Initial commit - system files for Lab 3
